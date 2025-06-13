@@ -2,7 +2,7 @@
 Este repositório abriga meu portfólio pessoal, desenvolvido com foco em apresentar meus projetos, habilidades e experiências na área de desenvolvimento web e tecnologia.
 
 ## Acesse
-Você pode acessar o site diretamente em: [gabrielfrois.github.io](gabrielfrois.github.io)
+Você pode acessar o site diretamente em: [gabrielfrois.github.io](https://gabrielfrois.github.io/)
 
 ## Tecnologias Utilizadas
 - HTML5
