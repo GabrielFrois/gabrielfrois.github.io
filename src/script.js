@@ -30,6 +30,8 @@ const projetosAcademicos = [
         descricao: `Desenvolvido o site de um curso interativo sobre a metodologia Scrum, cobrindo seus princípios, práticas e papel dos membros da equipe. 
         O curso inclui materiais teóricos, atividades práticas e avaliações para garantir a compreensão dos participantes.
         Projeto desenvolvido em grupo para a ABP do primeiro semestre do curso Desenvolvimento de Software Multiplataforma na Fatec. 
+        
+        Atuei ativamente na estruturação do projeto, focando na implementação do layout e as funcionalidades do site com HTML, CSS e JavaScript e também trabalhei na emissão de certificados para o fim do curso. 
         <a href="https://github.com/Capydev-jac/Capydev---1DSM" class="link-projeto" target="_blank" rel="noopener noreferrer">Confira o código</a>`,
         imagem: "./src/img/capscrum1.PNG",
         tecnologias: [
@@ -38,6 +40,19 @@ const projetosAcademicos = [
             "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
         ]
     },
+    {
+        nome: "Ignis",
+        descricao: `O projeto Ignis é uma plataforma web com o objetivo de facilitar o acesso a informações sobre queimadas e incêndios florestais. O sistema utiliza dados públicos do Programa Queimadas – INPE para fornecer informações detalhadas sobre focos de calor, risco de fogo e áreas queimadas em diferentes regiões do Brasil. 
+        
+        Atuei no desenvolvimento completo da estrutura frontend da plataforma usando React e TypeScript e trabalhei também na seção dos gráficos dinâmicos, conectando os filtros do frontend às consultas no banco de dados.
+        <a href="https://github.com/Capydev-jac/Projeto-Ignis" class="link-projeto" target="_blank" rel="noopener noreferrer">Confira o código</a>`,
+        imagem: "./src/img/ignis.PNG",
+        tecnologias: [
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+        ]
+    }
 ];
 
 const projetosPessoais = [
